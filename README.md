@@ -9,7 +9,7 @@
 在本项目开发环境中，也可运行：
 
 ```powershell
-& 'C:\Users\Administrator\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'E:\dianping\desktop\run_app.py'
+& 'C:\Users\Administrator\python\python.exe' 'E:\dianping\desktop\run_app.py'
 ```
 
 ## 使用
