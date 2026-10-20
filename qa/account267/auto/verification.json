@@ -1,0 +1,58 @@
+[
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\13957f5325fc70a1f2c44cef544c52f9_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\13957f5325fc70a1f2c44cef544c52f9_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\34a1ff1c948f2dea55ee1d9afeae77ac_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\34a1ff1c948f2dea55ee1d9afeae77ac_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\5b90abfed82f8a5f3ac6c70879b762e1_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\5b90abfed82f8a5f3ac6c70879b762e1_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\698f2a5b3c12d05f101de9d7409d18f9_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\698f2a5b3c12d05f101de9d7409d18f9_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\6da470ae16a4bbd64c237a2d7378d4d2_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\6da470ae16a4bbd64c237a2d7378d4d2_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\8ee67e5fa698c44bd02d62dd9edc2aae_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\8ee67e5fa698c44bd02d62dd9edc2aae_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\980d4550eba4599310a9bd2c9b98dc2e_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\auto\\980d4550eba4599310a9bd2c9b98dc2e_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "telea"
+  }
+]

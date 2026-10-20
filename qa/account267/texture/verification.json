@@ -1,0 +1,18 @@
+[
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\13957f5325fc70a1f2c44cef544c52f9_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\texture\\13957f5325fc70a1f2c44cef544c52f9_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "texture"
+  },
+  {
+    "input": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\5b90abfed82f8a5f3ac6c70879b762e1_720.png",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\texture\\5b90abfed82f8a5f3ac6c70879b762e1_720_clean.png",
+    "width": 1280,
+    "height": 1708,
+    "changed_outside_mask": 0,
+    "method": "texture"
+  }
+]

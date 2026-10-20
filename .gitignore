@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vendor/
+.venv/
+.webview-profile/
+.drop-cache/
+.app-data/
+release/
+release-icon/
+build/
+*.spec
+__pycache__/
+*.pyc

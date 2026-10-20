@@ -1,0 +1,18 @@
+[
+  {
+    "method": "Telea",
+    "dimensions": [
+      1707,
+      1280
+    ],
+    "changed_outside_mask": 0
+  },
+  {
+    "method": "Edge-aware",
+    "dimensions": [
+      1707,
+      1280
+    ],
+    "changed_outside_mask": 0
+  }
+]

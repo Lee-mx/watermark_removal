@@ -1,0 +1,44 @@
+[
+  {
+    "source": "13957f5325fc70a1f2c44cef544c52f9_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\13957f5325fc70a1f2c44cef544c52f9_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "34a1ff1c948f2dea55ee1d9afeae77ac_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\34a1ff1c948f2dea55ee1d9afeae77ac_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "5b90abfed82f8a5f3ac6c70879b762e1_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\5b90abfed82f8a5f3ac6c70879b762e1_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "698f2a5b3c12d05f101de9d7409d18f9_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\698f2a5b3c12d05f101de9d7409d18f9_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "6da470ae16a4bbd64c237a2d7378d4d2_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\6da470ae16a4bbd64c237a2d7378d4d2_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "8ee67e5fa698c44bd02d62dd9edc2aae_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\8ee67e5fa698c44bd02d62dd9edc2aae_720_clean_6.png",
+    "changedOutsideMask": 0
+  },
+  {
+    "source": "980d4550eba4599310a9bd2c9b98dc2e_720.png",
+    "template": "account-267777923",
+    "output": "E:\\dianping\\desktop\\qa\\account267\\desktop\\980d4550eba4599310a9bd2c9b98dc2e_720_clean_6.png",
+    "changedOutsideMask": 0
+  }
+]
